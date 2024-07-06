@@ -8,6 +8,7 @@ jxxghp/moviepilot:latest
 easychen/cookiecloud
 mzz2017/v2raya
 diygod/rsshub
+iyuucn/iyuuplus-dev
 
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
